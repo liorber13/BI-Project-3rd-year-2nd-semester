@@ -5,7 +5,7 @@ import pandas as pd
 import sqlite3
 import functools as ft
 import matplotlib.pyplot as plt
-#%matplotlib inline
+# %matplotlib inline
 
 # reading the Excel file into Python
 loans = pd.read_excel('Loan data for BI - excel.xlsx')
@@ -30,8 +30,8 @@ print(loans.isna().sum())
 # top 5 lines in the data
 print(loans.head())
 
-# drop column ID from the data
-loans.drop(columns=["ID"], inplace=True)
+# drop column **** from the data
+loans.drop(columns=["****"], inplace=True)
 print(loans)
 
 # remove duplicates in data
@@ -77,6 +77,3 @@ min_value = Q1 - bandwidth * IQR
 
 outliers = outliers[(outliers['Loan_Amount'] > max_value) | (outliers['Loan_Amount'] < min_value)]
 outliers
-
-
-
