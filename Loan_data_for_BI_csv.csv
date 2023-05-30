@@ -1,0 +1,368 @@
+﻿ID,Gender,Married,Age,Dependents,Education,Self_Employed,Applicant_Income,Coapplicant_Income,Load_Date,Loan_Amount,Term,Credit_History,Area
+10266,Female,Yes,50,0,Graduate,No,47090,0,מאי-22,1130000,360,1,Semiurban
+10311,Male,Yes,48,3+,Not Graduate,Yes,40090,17770,ספט-22,1130000,360,1,Urban
+10716,Male,Yes,59,0,Graduate,No,26000,7000,נוב-22,960000,360,1,Semiurban
+11138,Male,Yes,24,1,Graduate,No,49600,26000,דצמ-22,1870000,360,1,Semiurban
+11687,Male,Yes,42,0,Graduate,No,36670,20000,יונ-22,1700000,360,1,Semiurban
+11866,Male,Yes,42,1,Graduate,No,100000,26900,מרץ-22,4120000,360,1,Semiurban
+12310,Male,Yes,71,0,Graduate,No,45000,0,יונ-22,1400000,360,1,Semiurban
+13151,Male,Yes,38,0,Graduate,No,15160,19510,מאי-22,350000,360,1,Semiurban
+13420,Male,Yes,28,0,Graduate,No,24580,51050,דצמ-22,1880000,360,0,Rural
+13441,Male,Yes,31,0,Graduate,No,41670,47540,נוב-22,1600000,360,1,Rural
+13519,Male,Yes,24,3+,Graduate,No,68350,0,מאי-22,1880000,360,,Semiurban
+13555,Male,Yes,68,1,Graduate,No,188400,0,נוב-22,2340000,360,1,Rural
+13664,Male,No,26,0,Graduate,No,30710,43090,יול-22,1800000,360,1,Urban
+13872,Male,Yes,42,3+,Graduate,Yes,69580,14110,אפר-22,1500000,360,1,Rural
+13906,Male,No,32,1,Graduate,No,56670,0,מרץ-22,1310000,360,1,Urban
+14262,Male,Yes,43,0,Graduate,No,44560,0,מאי-22,1310000,180,0,Semiurban
+14327,Male,Yes,29,2,Graduate,No,86670,0,יול-22,2540000,360,1,Rural
+15131,Female,No,65,1,Not Graduate,No,22260,0,דצמ-22,590000,360,1,Semiurban
+15196,Male,Yes,29,0,Not Graduate,No,21570,27300,דצמ-22,1400000,360,,Rural
+15277,Male,Yes,44,2,Graduate,,136330,0,יונ-22,2800000,240,1,Urban
+15500,Female,No,62,0,Graduate,,50580,0,ספט-22,2000000,360,1,Rural
+15628,Male,Yes,44,3+,Not Graduate,No,28550,5420,נוב-22,900000,360,1,Urban
+15692,Male,Yes,44,3+,Graduate,No,45130,0,מאי-22,1200000,360,1,Rural
+15781,Male,Yes,44,0,Not Graduate,No,45230,13500,מאי-22,1650000,360,1,Urban
+15852,Male,Yes,50,2,Not Graduate,No,47660,16460,יול-22,1000000,360,1,Semiurban
+15863,Male,Yes,40,0,Graduate,Yes,31880,22860,פבר-22,1300000,360,,Rural
+16049,Male,Yes,38,2,Not Graduate,No,26870,0,אפר-22,500000,180,1,Rural
+16104,Female,No,47,1,Graduate,No,76000,,יונ-22,920000,360,1,Semiurban
+16199,Male,No,68,0,Not Graduate,No,32760,0,ינו-22,900000,360,1,Semiurban
+16333,Male,Yes,25,2,Graduate,,121730,0,יונ-22,1660000,360,0,Semiurban
+16525,Male,Yes,23,0,Graduate,No,41580,7090,יונ-22,1150000,360,1,Urban
+16570,Male,Yes,61,0,Graduate,,25390,17040,מאי-22,1250000,360,0,Rural
+16802,Male,No,53,0,Graduate,No,49830,0,נוב-22,1410000,360,1,Urban
+17423,,No,30,0,Graduate,No,39090,0,ספט-22,1010000,360,1,Urban
+17436,Male,Yes,35,3+,Not Graduate,No,44900,0,נוב-22,1250000,360,1,Urban
+17661,Male,Yes,56,1,Graduate,Yes,35070,31480,נוב-22,2120000,360,1,Rural
+17890,Female,No,68,0,Graduate,No,129410,0,דצמ-22,1500000,300,1,Urban
+18059,Male,Yes,64,0,Graduate,No,35100,8280,אוג-22,1050000,360,1,Semiurban
+18077,Male,Yes,56,2,Not Graduate,No,44830,0,ספט-22,1300000,360,1,Rural
+18080,Male,No,52,0,Graduate,,29640,0,ינו-22,840000,360,0,Semiurban
+18134,Female,No,74,0,Graduate,No,55300,0,מאי-22,1350000,360,,
+18186,Male,Yes,52,0,Graduate,No,84490,0,פבר-22,2570000,360,1,Rural
+18199,Male,Yes,34,2,Graduate,No,43630,12500,יול-22,1400000,360,,Urban
+18377,Female,No,62,0,Graduate,No,29180,0,פבר-22,650000,360,,Rural
+19150,Male,Yes,25,3+,Graduate,No,47200,0,פבר-22,900000,180,1,Semiurban
+19724,Female,No,55,0,Graduate,No,19370,11520,ינו-22,780000,360,1,Semiurban
+19949,Male,Yes,71,3+,Not Graduate,No,51800,0,פבר-22,1250000,360,0,Urban
+20045,Male,Yes,32,3+,Graduate,No,32420,4370,אפר-22,1420000,480,0,Urban
+20662,Male,Yes,38,0,Graduate,No,37720,8330,יונ-22,570000,360,,Semiurban
+20857,Male,No,71,0,Graduate,No,59000,0,ינו-22,1500000,360,1,Urban
+20970,Male,No,55,0,Graduate,No,34170,7380,ספט-22,1000000,360,,Rural
+21657,Female,No,31,0,Graduate,No,43330,23330,ינו-22,1620000,360,0,Rural
+21710,Male,Yes,69,2,Not Graduate,No,,0,ספט-22,1470000,360,0,Rural
+21851,Male,Yes,26,3+,,No,135180,0,יול-22,3900000,360,1,Rural
+22148,Male,Yes,35,0,Graduate,No,33330,12700,דצמ-22,1240000,360,1,Urban
+22228,Female,No,66,0,Graduate,No,21010,15000,דצמ-22,1080000,360,0,Rural
+23211,Male,Yes,67,1,Graduate,No,30740,10830,אוג-22,1460000,360,1,Semiurban
+23594,Female,No,68,0,Not Graduate,No,24780,0,מרץ-22,750000,360,1,Semiurban
+23906,Male,Yes,53,3+,Graduate,No,76030,12130,אפר-22,1970000,360,1,Urban
+24086,Male,No,40,0,Graduate,No,35830,34350,דצמ-22,1550000,360,1,Urban
+24264,Male,No,22,0,Graduate,No,30730,0,נוב-22,700000,180,1,Urban
+24530,Male,Yes,42,3+,Graduate,No,27730,14970,ינו-22,1080000,360,1,Semiurban
+24641,Female,No,37,1,Graduate,,18500,45830,מרץ-22,810000,360,,Rural
+24859,Female,No,57,2,Graduate,Yes,51840,0,אפר-22,1870000,360,0,Semiurban
+25922,Male,Yes,,1,Graduate,No,43640,25000,יונ-22,1850000,360,1,Semiurban
+26062,Female,No,35,0,Graduate,No,57690,0,פבר-22,1100000,180,1,Semiurban
+26312,Male,No,66,0,Graduate,No,149110,145070,מאי-22,1300000,360,1,Semiurban
+26487,Male,Yes,27,1,Graduate,No,15160,29000,נוב-22,800000,,0,Rural
+26518,Male,Yes,71,0,Graduate,No,51190,37690,אפר-22,1200000,360,1,Rural
+26565,Male,Yes,51,1,Graduate,,63000,0,אוק-22,1250000,360,0,Urban
+26749,Male,Yes,53,0,Graduate,Yes,320000,0,יול-22,5500000,360,,Semiurban
+26993,Female,No,42,,Graduate,No,32500,0,דצמ-22,950000,360,1,Semiurban
+27348,Female,Yes,58,0,Graduate,No,38330,0,מרץ-22,920000,360,1,Rural
+27446,Male,No,19,0,Graduate,No,30830,27380,אוג-22,1200000,360,1,Urban
+27508,Male,Yes,62,0,Graduate,No,33330,42880,יול-22,1600000,360,1,Urban
+27876,Male,No,75,0,Graduate,Yes,58330,0,ספט-22,1160000,360,1,Urban
+27926,Male,No,43,0,Not Graduate,Yes,15990,24740,נוב-22,1250000,300,1,Semiurban
+27963,Male,,23,0,Graduate,No,32680,16830,דצמ-22,1520000,360,1,Semiurban
+28223,Male,Yes,48,1,Graduate,No,35000,30770,נוב-22,1600000,360,1,Semiurban
+28245,Male,Yes,56,1,Graduate,No,30760,,יונ-22,1260000,360,1,Urban
+28352,Female,No,73,0,Not Graduate,No,21070,0,פבר-22,640000,360,1,Semiurban
+28717,Male,No,23,3+,Graduate,No,41660,0,ספט-22,400000,180,,Urban
+29025,Male,No,49,0,Graduate,No,21660,20570,אפר-22,1220000,360,1,Semiurban
+29053,Male,No,23,0,Graduate,No,46670,0,יונ-22,1200000,360,1,Semiurban
+29467,Male,Yes,55,0,Graduate,No,78300,21830,יול-22,2120000,360,1,Rural
+29529,Female,No,56,3+,Graduate,No,40830,0,נוב-22,1030000,360,,Semiurban
+29976,Male,Yes,35,3+,Not Graduate,,67940,5280,אוג-22,1390000,360,0,Urban
+30553,Female,Yes,26,1,Graduate,No,43330,0,דצמ-22,1320000,84,1,Rural
+30818,Male,Yes,42,0,Graduate,,65000,0,מרץ-22,1440000,360,1,Urban
+31207,Male,Yes,28,0,Graduate,No,55090,0,נוב-22,1430000,360,1,Rural
+31230,Male,Yes,25,1,Graduate,No,22690,21670,נוב-22,990000,360,1,Semiurban
+31452,Male,Yes,21,2,Graduate,No,23400,25460,דצמ-22,1000000,360,,Urban
+31626,Male,No,21,0,Graduate,No,47270,0,דצמ-22,1500000,360,0,Rural
+31774,Male,Yes,33,,Graduate,No,100000,0,פבר-22,0,360,1,Urban
+31920,Male,Yes,36,0,Graduate,No,27830,14560,פבר-22,1130000,360,1,Urban
+31991,Male,Yes,69,2,Graduate,No,91670,0,ספט-22,2350000,360,1,Semiurban
+32086,Male,Yes,34,1,Graduate,No,47960,0,אוק-22,1140000,360,0,Semiurban
+32114,Female,Yes,34,1,Graduate,No,37190,15850,פבר-22,1140000,360,1,Urban
+32253,Male,Yes,52,0,Graduate,Yes,70160,2920,מרץ-22,1250000,360,1,Urban
+32818,Male,No,38,0,Graduate,No,67920,33380,דצמ-22,1870000,,1,Urban
+33523,Male,Yes,57,0,Graduate,No,57200,0,נוב-22,1100000,360,1,Urban
+33839,Male,Yes,36,0,Graduate,No,33910,19660,אוק-22,1330000,360,0,Rural
+34162,Female,No,41,1,Graduate,No,36200,0,ינו-22,900000,360,1,
+34460,Male,No,38,1,Graduate,,160000,50000,ינו-22,400000,360,1,Semiurban
+34526,Male,Yes,47,2,Graduate,No,50000,18000,אפר-22,2080000,360,1,Urban
+35279,Male,No,58,0,Graduate,,19720,43470,פבר-22,1060000,360,1,Rural
+35418,Female,No,37,0,Graduate,Yes,47420,0,נוב-22,1080000,360,1,Semiurban
+35473,Male,Yes,49,0,Graduate,No,58170,9100,פבר-22,1090000,360,1,Urban
+36109,Male,Yes,39,2,Graduate,No,39580,26320,מרץ-22,1600000,360,1,Semiurban
+36283,Female,Yes,40,0,Graduate,No,79500,0,מרץ-22,1850000,360,1,Urban
+36634,Male,Yes,48,0,Graduate,No,75000,37500,פבר-22,2750000,360,1,Urban
+36668,Male,No,34,2,Not Graduate,No,27330,10830,יונ-22,1800000,360,,Semiurban
+36796,Female,No,65,0,Graduate,No,36440,0,יונ-22,1100000,360,1,Urban
+37541,Female,Yes,34,0,Graduate,No,22620,0,מאי-22,0,480,0,Semiurban
+37648,Female,No,62,0,Graduate,No,25450,0,נוב-22,740000,360,1,Urban
+37943,Female,No,24,0,Graduate,No,27080,0,יונ-22,650000,360,1,Rural
+38059,Male,Yes,40,0,Graduate,No,50000,0,נוב-22,1260000,360,1,Rural
+38112,Male,Yes,50,0,Graduate,No,38870,15170,ינו-22,1050000,360,0,Semiurban
+38272,Male,No,65,0,,No,41500,42560,יול-22,2090000,360,1,Rural
+38626,Male,Yes,21,0,Not Graduate,No,130830,0,אפר-22,0,360,1,Rural
+38640,Male,No,54,0,Graduate,No,28750,24160,פבר-22,950000,6,0,Semiurban
+39057,Male,No,54,0,Not Graduate,No,32760,0,יול-22,780000,360,1,Urban
+39157,Female,No,29,0,Graduate,No,42130,0,אפר-22,800000,360,1,Urban
+39238,Female,No,24,0,Graduate,No,17620,26660,אוק-22,1040000,360,0,Urban
+39425,Male,Yes,73,3+,Graduate,No,38290,11030,מאי-22,1630000,360,0,Urban
+39749,Male,Yes,30,1,Not Graduate,No,33210,20880,מאי-22,700000,,1,Semiurban
+39802,Male,Yes,42,0,Graduate,No,11730,15940,מאי-22,280000,180,1,Rural
+39935,Male,No,56,0,Graduate,Yes,92000,0,ספט-22,980000,180,1,Rural
+40337,Male,Yes,32,0,Not Graduate,Yes,21650,34220,נוב-22,1520000,360,1,Urban
+40502,Male,Yes,30,0,Graduate,No,56290,8180,יול-22,1000000,360,1,Urban
+40527,Female,No,47,1,Not Graduate,No,38540,35750,יונ-22,1170000,360,1,Rural
+40840,Male,Yes,65,0,Graduate,No,53330,0,ינו-22,900000,360,1,Rural
+41582,Male,Yes,68,0,Not Graduate,No,24150,17210,אוק-22,1100000,360,1,Semiurban
+41769,Male,No,66,2,Graduate,No,24000,0,אפר-22,460000,360,1,Urban
+42082,Male,Yes,29,3+,Graduate,No,33500,15600,מאי-22,1350000,360,1,Urban
+42102,Male,No,24,2,Not Graduate,No,32350,20150,נוב-22,770000,360,1,Semiurban
+42161,Male,No,42,0,Graduate,No,29250,0,מרץ-22,400000,180,1,Rural
+42181,Male,No,33,0,Graduate,No,36430,19630,מאי-22,1380000,360,1,Urban
+42432,Male,No,43,0,Not Graduate,No,30910,0,מאי-22,900000,360,1,Urban
+42503,Female,Yes,67,0,Graduate,No,26660,0,ספט-22,840000,480,1,Semiurban
+42743,Male,No,32,0,Graduate,No,68580,0,אפר-22,1760000,360,1,Rural
+43200,Male,No,51,,Graduate,No,35790,33080,פבר-22,1380000,360,,Semiurban
+43304,Male,,24,2,Not Graduate,No,11410,20170,מאי-22,1200000,360,0,Urban
+43446,Male,No,44,1,Graduate,No,,0,פבר-22,2400000,360,1,Semiurban
+43504,Male,Yes,70,2,Graduate,No,78740,39670,יול-22,3360000,360,1,Rural
+43628,Male,Yes,59,0,Not Graduate,No,47000,0,ספט-22,1350000,360,0,Semiurban
+43867,Male,Yes,38,0,Graduate,No,43340,29450,ינו-22,1650000,360,1,Semiurban
+43897,Female,Yes,72,2,Graduate,No,29220,33960,מאי-22,1220000,360,1,Semiurban
+43998,Male,Yes,24,0,Graduate,No,43330,22910,יול-22,1330000,350,1,Rural
+44176,Female,No,43,3+,Graduate,No,23660,52720,ספט-22,1530000,360,0,Rural
+44291,Female,Yes,71,0,Not Graduate,No,16470,17620,יונ-22,1810000,360,1,Urban
+44303,,Yes,44,1,Not Graduate,Yes,5700,21250,מאי-22,680000,360,1,Rural
+44687,Male,Yes,57,,Graduate,No,38630,0,דצמ-22,700000,300,1,Semiurban
+45476,Male,No,23,0,Graduate,No,24120,27550,אוק-22,1300000,360,1,Rural
+45583,Male,Yes,52,3+,Graduate,Yes,53840,0,יונ-22,1500000,360,1,
+45818,Male,Yes,64,3+,Not Graduate,No,35220,0,אוג-22,810000,180,1,Rural
+46353,Male,Yes,29,0,Graduate,No,26130,24170,יונ-22,1230000,360,1,Semiurban
+46430,Male,Yes,60,3+,Graduate,No,83340,0,יונ-22,2600000,360,1,Urban
+46657,Male,Yes,62,0,Graduate,Yes,26230,48310,נוב-22,1220000,180,1,Semiurban
+47060,Male,No,72,0,Graduate,Yes,63560,0,אפר-22,500000,360,1,Rural
+47335,Male,Yes,72,1,Graduate,No,37470,21390,אוג-22,1250000,360,1,Urban
+47730,Male,No,74,0,Graduate,No,22310,27740,אפר-22,1760000,360,0,Urban
+48131,Male,Yes,74,1,Graduate,No,33330,42000,יול-22,2560000,360,1,Urban
+48165,Male,Yes,61,2,Graduate,Yes,108900,0,יול-22,2600000,12,1,Rural
+49044,Male,Yes,70,0,Not Graduate,No,47500,35830,אפר-22,1440000,360,1,Semiurban
+49233,Male,Yes,75,0,Not Graduate,No,24310,18200,יול-22,1100000,360,0,Rural
+49434,Female,No,66,0,Graduate,No,39580,0,ספט-22,1100000,360,1,Rural
+50168,Male,Yes,37,2,Not Graduate,No,38590,0,ינו-22,1210000,360,1,Rural
+50246,Male,Yes,28,1,Graduate,No,37910,19360,נוב-22,850000,360,1,Urban
+50368,Male,No,21,0,Graduate,Yes,58330,0,אוג-22,1160000,360,1,Urban
+50470,Male,No,44,0,Graduate,No,25000,0,יונ-22,600000,360,1,Urban
+50831,Male,No,51,0,Not Graduate,,38080,0,ינו-22,830000,360,1,Rural
+51570,Male,Yes,31,2,Not Graduate,,37850,29120,דצמ-22,1800000,360,0,Rural
+51686,Male,Yes,74,2,Not Graduate,No,61660,139830,ספט-22,1020000,360,1,Rural
+52192,Male,Yes,60,0,Not Graduate,No,17500,20240,יול-22,900000,360,1,Semiurban
+52232,Male,Yes,39,0,Graduate,No,27830,27080,פבר-22,1580000,360,1,Urban
+52342,Male,Yes,22,2,Graduate,No,43580,0,ספט-22,1100000,360,1,Urban
+52477,Male,Yes,48,0,Graduate,No,42600,39000,יול-22,1850000,,,Urban
+52787,Male,Yes,46,0,Graduate,Yes,87060,0,ספט-22,1080000,480,1,Rural
+53142,Male,Yes,63,0,Graduate,No,27400,15410,מרץ-22,1010000,360,1,Urban
+53464,Male,Yes,28,0,Graduate,No,29820,15500,אוק-22,1100000,360,1,Semiurban
+53666,Male,Yes,46,2,Graduate,No,75000,0,ינו-22,2250000,360,1,Urban
+54137,Male,No,71,0,Graduate,No,43330,0,אוק-22,660000,480,1,Urban
+54290,Male,Yes,52,3+,,No,53160,1870,נוב-22,1580000,180,0,Semiurban
+54477,Male,No,40,0,Graduate,No,31250,0,אוג-22,650000,360,1,Urban
+54681,Male,Yes,65,1,Graduate,No,24190,17070,דצמ-22,1240000,360,1,Urban
+54709,,No,27,0,Graduate,No,15960,17600,מאי-22,1190000,360,0,Urban
+55097,,Yes,75,3+,Not Graduate,No,35000,8330,אוק-22,1200000,360,1,Semiurban
+55247,Male,No,70,0,Graduate,No,27500,0,אוק-22,1300000,360,0,Urban
+55306,Male,No,67,1,Graduate,No,31800,23700,אפר-22,800000,240,,Rural
+55411,Male,Yes,56,3+,Graduate,No,30890,29990,אוק-22,1000000,240,1,Rural
+55669,Male,No,40,0,Graduate,No,25000,64140,יול-22,1870000,360,0,Rural
+56003,Male,Yes,37,2,Not Graduate,No,28960,0,מרץ-22,800000,480,1,Urban
+56129,Male,Yes,32,0,Graduate,No,37080,47000,אוק-22,1320000,360,1,Semiurban
+56511,Male,No,49,0,Graduate,No,40000,26670,ינו-22,1520000,360,1,Semiurban
+56535,Female,No,48,0,Graduate,No,23620,0,נוב-22,550000,360,1,Urban
+56553,Male,Yes,40,1,Graduate,No,83330,,יול-22,0,360,1,Urban
+56845,Male,Yes,62,0,Not Graduate,No,17000,29000,יונ-22,670000,360,0,Urban
+56884,Female,No,46,1,Graduate,No,50620,0,יול-22,1520000,300,1,Rural
+57258,Male,Yes,35,0,Graduate,No,35710,19170,ינו-22,1350000,360,1,Urban
+58182,Male,Yes,56,0,Graduate,No,34450,0,יול-22,1300000,360,0,Semiurban
+58212,Male,Yes,61,3+,Graduate,No,34000,0,אוג-22,800000,120,1,Urban
+59082,Female,Yes,71,2,Not Graduate,No,37290,0,מאי-22,1170000,360,1,Semiurban
+60041,Male,No,54,3+,Graduate,No,42430,41230,ספט-22,1570000,360,,Semiurban
+60485,Male,Yes,31,3+,Graduate,No,101660,7500,אוק-22,1500000,,1,Urban
+60844,Female,Yes,43,1,Not Graduate,No,38350,14000,אוק-22,1120000,480,0,Urban
+60864,Male,No,23,0,Graduate,No,33910,0,יונ-22,1320000,360,1,Rural
+62328,Male,,,,Graduate,No,40820,0,יול-22,930000,360,1,Semiurban
+62416,Male,No,31,0,Graduate,No,29420,23820,יול-22,1250000,180,1,Urban
+63056,,Yes,69,0,Graduate,No,31860,31450,מרץ-22,1500000,180,0,Semiurban
+63117,Female,Yes,54,0,Graduate,No,78590,8790,אוק-22,1650000,180,1,Semiurban
+63176,Male,Yes,49,1,Not Graduate,,17920,25650,ספט-22,1280000,360,1,Urban
+63976,Female,Yes,24,0,Graduate,No,85500,42550,ינו-22,960000,360,,Urban
+64009,Male,Yes,53,2,Graduate,No,62500,8200,מרץ-22,1920000,360,1,Urban
+64264,Male,No,,0,Graduate,No,53330,24000,יונ-22,2000000,360,0,Rural
+64747,Male,Yes,20,2,Graduate,No,50000,0,ספט-22,1490000,360,1,Rural
+64785,Male,Yes,63,1,Graduate,Yes,33430,15170,ספט-22,1050000,360,1,Rural
+64880,Male,Yes,43,0,Graduate,No,29170,35830,פבר-22,1380000,360,1,Semiurban
+65951,Male,Yes,29,1,Graduate,No,47000,0,ינו-22,800000,360,1,Urban
+66667,Male,Yes,54,0,Graduate,No,52250,0,מרץ-22,1430000,360,1,Rural
+66767,Female,Yes,63,2,Graduate,No,27790,36640,ספט-22,1760000,360,0,Semiurban
+66819,Male,Yes,43,0,Graduate,No,22920,15580,יול-22,1190000,360,1,Urban
+66850,Male,Yes,48,1,Graduate,,21850,15160,פבר-22,1620000,360,1,Semiurban
+67054,Female,No,24,0,Graduate,No,46660,0,דצמ-22,1240000,360,1,Semiurban
+67323,Male,Yes,54,0,Graduate,Yes,25000,2960,יול-22,1370000,300,1,Rural
+67415,Male,No,46,0,Graduate,No,31500,0,ספט-22,1760000,360,0,Semiurban
+67446,Male,No,58,0,Graduate,No,30660,0,יונ-22,950000,360,1,Semiurban
+67830,Female,Yes,67,3+,Graduate,,17500,29350,ספט-22,940000,360,0,Semiurban
+67914,Male,No,35,0,Graduate,No,35080,0,יונ-22,990000,360,1,Rural
+67930,Male,Yes,46,1,Graduate,No,26670,15420,אוק-22,1480000,360,1,Rural
+67975,Female,No,28,0,Graduate,No,37670,0,אפר-22,1340000,300,1,Urban
+67990,Female,Yes,29,0,Graduate,No,21570,17880,דצמ-22,1040000,360,1,Urban
+68080,Male,Yes,67,0,Graduate,No,30070,37250,אפר-22,1510000,360,1,
+68181,Male,No,65,0,Graduate,No,22830,150000,אוג-22,1060000,360,,Rural
+68188,,No,63,0,Graduate,No,,0,מאי-22,1850000,360,1,Semiurban
+68659,Male,Yes,42,3+,Graduate,No,153120,0,אפר-22,1870000,360,,Urban
+68768,Female,No,68,3+,Not Graduate,No,20830,0,נוב-22,280000,180,1,Urban
+68773,Male,No,21,0,Not Graduate,No,24000,24000,מרץ-22,1230000,360,1,Semiurban
+68937,Male,Yes,59,2,Not Graduate,No,25130,11100,אפר-22,1070000,360,1,Semiurban
+68985,Female,No,44,0,Not Graduate,No,44020,0,יול-22,1300000,360,1,Rural
+69083,Male,No,63,0,Graduate,Yes,39720,42750,אפר-22,1870000,360,1,Rural
+69189,,No,32,0,Graduate,No,64780,0,מרץ-22,1080000,360,1,Semiurban
+69711,Male,Yes,72,0,Graduate,No,35000,32500,אפר-22,1400000,360,1,Semiurban
+70127,Male,No,50,0,Graduate,No,0,240000,דצמ-22,1480000,360,0,Rural
+70700,Female,Yes,22,3+,Not Graduate,No,16350,24440,דצמ-22,990000,360,1,Urban
+71639,Male,Yes,21,3+,Not Graduate,,36340,9100,אוג-22,1760000,360,0,Semiurban
+71790,Male,Yes,72,2,Graduate,No,51280,0,ספט-22,1430000,360,1,Rural
+71823,Male,Yes,66,2,Not Graduate,No,34180,13800,ספט-22,1350000,360,1,Urban
+72080,Male,Yes,38,0,,Yes,19000,14420,נוב-22,880000,360,1,Rural
+72318,Male,Yes,29,2,Graduate,Yes,75000,0,פבר-22,1830000,360,1,Rural
+72563,Male,Yes,39,1,Graduate,No,47420,7170,אפר-22,1390000,360,1,Semiurban
+72605,Female,Yes,29,2,Graduate,No,100000,116660,מאי-22,4600000,360,1,Urban
+72932,Male,Yes,49,0,Not Graduate,No,78950,0,ספט-22,1430000,360,1,Rural
+73297,Male,Yes,54,1,Graduate,,87500,0,ינו-22,2970000,360,1,Urban
+73431,Female,Yes,50,0,Graduate,No,34170,12870,אוק-22,2000000,360,1,Semiurban
+73548,Male,Yes,19,0,Not Graduate,No,29140,21300,פבר-22,1500000,300,1,Urban
+74030,Male,Yes,62,2,Graduate,No,48550,0,פבר-22,720000,360,1,Rural
+74891,Female,No,29,0,Graduate,No,34170,0,יונ-22,1020000,360,1,Urban
+75395,Female,No,49,0,Graduate,No,22740,52110,ספט-22,1170000,360,0,Semiurban
+76217,Male,Yes,21,1,Graduate,Yes,75000,0,יונ-22,750000,360,1,Urban
+76316,Male,Yes,22,2,Graduate,,49120,46140,פבר-22,1600000,360,1,Rural
+76348,Male,Yes,20,2,Graduate,,73500,40290,מרץ-22,1850000,180,1,Urban
+76471,Male,Yes,36,2,Graduate,No,45830,29160,נוב-22,2000000,360,1,Urban
+76705,,No,33,,Graduate,No,33330,12500,דצמ-22,1100000,360,1,Semiurban
+76707,Male,Yes,75,,Graduate,No,30160,13000,פבר-22,1000000,360,,Urban
+76813,Male,No,25,0,Graduate,No,30170,28450,מאי-22,1590000,180,0,Urban
+77017,Male,Yes,54,2,Graduate,No,31660,28330,ינו-22,1450000,360,1,Urban
+77059,Male,Yes,68,1,Graduate,Yes,23600,33550,יונ-22,870000,240,1,Rural
+77465,Female,No,39,1,Graduate,No,40280,0,אוק-22,1310000,360,1,Semiurban
+77477,Female,No,63,0,Graduate,No,36660,0,אוג-22,840000,360,1,Urban
+77621,Male,Yes,65,0,Graduate,Yes,39000,20940,יונ-22,2320000,360,1,Rural
+77946,Male,Yes,28,2,Graduate,No,29950,11200,מאי-22,1840000,360,1,Rural
+78134,Female,Yes,55,1,Graduate,No,40000,39170,אוק-22,1730000,360,1,Rural
+78595,Female,Yes,57,0,Graduate,No,31590,23740,ינו-22,1080000,360,1,Semiurban
+78754,Male,Yes,28,3+,Graduate,No,97190,0,נוב-22,610000,360,1,Urban
+78858,Male,Yes,57,3+,Graduate,No,725290,0,נוב-22,3600000,360,1,Urban
+79022,Male,Yes,23,2,Graduate,No,40100,10250,יונ-22,1200000,360,1,Urban
+79568,,No,36,0,Graduate,Yes,28600,29880,דצמ-22,1380000,360,1,Urban
+79572,Female,Yes,48,1,Not Graduate,No,36210,27170,אוג-22,1710000,360,1,Urban
+80022,Male,Yes,32,,Not Graduate,No,41630,14750,אוג-22,1620000,360,1,Urban
+80127,Male,No,71,0,Graduate,No,44630,0,דצמ-22,650000,360,1,Semiurban
+80869,Male,Yes,59,3+,Not Graduate,No,27920,26190,יול-22,1710000,360,1,Semiurban
+80871,Male,Yes,28,2,Graduate,No,56670,4400,ספט-22,1300000,360,0,Semiurban
+80969,Male,Yes,38,1,Graduate,No,46090,23330,מאי-22,1230000,360,0,Semiurban
+81050,Male,Yes,67,1,Not Graduate,,26000,6180,אוג-22,1220000,360,1,Semiurban
+81054,Male,No,66,0,Graduate,No,13000,34700,אפר-22,1000000,180,1,Semiurban
+81279,Female,No,73,0,Not Graduate,No,37650,0,מאי-22,1250000,360,1,Urban
+81684,Female,Yes,26,3+,Graduate,No,62600,0,ספט-22,1100000,360,1,Semiurban
+82015,Male,Yes,20,3+,Not Graduate,No,26540,19980,יונ-22,1280000,360,0,Rural
+82048,Male,Yes,36,2,Not Graduate,No,41360,0,מאי-22,1490000,480,0,Rural
+82124,Male,Yes,53,1,Graduate,No,68250,0,פבר-22,1620000,360,1,Rural
+82127,Male,No,25,0,Graduate,No,57080,0,מאי-22,1500000,360,1,Rural
+82246,Male,Yes,73,0,Not Graduate,No,35000,21680,אוג-22,1490000,360,1,Rural
+82814,Female,Yes,65,0,Graduate,No,22410,20000,אוק-22,880000,360,0,Urban
+82841,Male,No,51,0,Not Graduate,No,28680,0,מאי-22,700000,360,1,Urban
+83103,Female,No,52,,Graduate,Yes,149870,0,מאי-22,1770000,360,1,Rural
+83183,Male,No,32,0,Not Graduate,No,22680,0,פבר-22,1700000,360,0,Semiurban
+83230,Male,No,53,0,Graduate,No,44520,0,פבר-22,1310000,360,1,Rural
+83430,Male,Yes,47,0,Not Graduate,No,20000,16000,אוק-22,1150000,360,1,Rural
+83498,Female,No,56,0,Graduate,No,35000,0,נוב-22,940000,360,0,Semiurban
+83811,Male,Yes,69,0,Not Graduate,No,27470,24580,אפר-22,1180000,36,1,Semiurban
+83951,Male,Yes,58,0,Graduate,No,23330,38030,ינו-22,1460000,360,1,Rural
+83958,Male,No,19,0,Graduate,No,40000,0,אוג-22,830000,84,1,Urban
+84767,Male,Yes,73,1,Graduate,No,35000,16580,מרץ-22,1040000,360,,Semiurban
+84930,Male,Yes,52,0,Not Graduate,Yes,52930,0,פבר-22,920000,360,1,Urban
+85271,Female,No,48,0,Graduate,No,125000,0,נוב-22,3000000,360,0,Urban
+85409,Male,Yes,50,2,Not Graduate,No,31320,0,ספט-22,760000,360,,Rural
+85675,Male,No,39,0,Not Graduate,No,90000,0,ינו-22,1220000,360,1,Rural
+85984,Male,Yes,32,0,Graduate,No,76660,0,אפר-22,1870000,360,1,Semiurban
+86022,,No,41,1,Not Graduate,No,20380,40270,דצמ-22,1000000,360,1,Rural
+86363,Male,Yes,26,2,Graduate,Yes,42460,42460,נוב-22,2140000,360,1,
+86482,Male,,46,0,Graduate,No,65000,0,מרץ-22,710000,360,0,Urban
+86702,Male,No,23,0,Not Graduate,No,38440,0,יול-22,1050000,360,1,Urban
+86767,Male,Yes,71,3+,,No,37860,3330,ינו-22,1260000,360,1,Semiurban
+86792,Male,Yes,40,2,Not Graduate,No,45210,11840,יונ-22,1500000,360,1,Semiurban
+87306,Male,No,59,0,Graduate,,28580,0,אוק-22,1230000,360,0,Rural
+87354,Male,No,,0,Graduate,No,32500,19930,דצמ-22,1260000,360,,Semiurban
+87413,Female,No,27,0,Not Graduate,No,0,17600,יול-22,1800000,360,1,Semiurban
+87470,Male,Yes,41,3+,Not Graduate,Yes,80000,2500,פבר-22,1870000,360,1,Semiurban
+87752,Male,Yes,37,0,Graduate,No,21660,21660,יול-22,1080000,360,,Urban
+87853,Male,Yes,59,2,Graduate,No,58330,7500,אפר-22,490000,360,0,Rural
+88257,Male,No,30,0,Graduate,No,65000,26000,פבר-22,2000000,360,1,Semiurban
+88351,Male,Yes,71,2,Graduate,No,36130,35390,אוק-22,1340000,180,1,Semiurban
+88525,Male,Yes,55,0,Graduate,No,42580,0,נוב-22,1250000,360,1,Urban
+88587,Male,Yes,,2,Graduate,No,46350,80000,נוב-22,1020000,180,1,Rural
+88674,Female,No,58,0,Not Graduate,No,,20000,אוג-22,1450000,360,,Urban
+88862,Male,Yes,52,2,Graduate,No,41160,10000,ספט-22,300000,180,1,Urban
+88974,Male,Yes,57,1,Graduate,No,34360,38090,אוק-22,1000000,360,1,Rural
+89348,Male,Yes,28,1,Graduate,No,39010,0,דצמ-22,1160000,360,1,Urban
+89557,Male,Yes,21,0,Not Graduate,Yes,39430,0,מרץ-22,640000,360,1,Semiurban
+89708,Female,No,23,2,Graduate,No,49680,0,דצמ-22,1890000,360,1,Semiurban
+89785,Male,Yes,61,2,Graduate,Yes,50000,21660,אוק-22,1500000,360,1,Urban
+90005,Male,Yes,30,1,Graduate,No,20140,29250,ספט-22,1200000,360,1,Rural
+90178,Male,Yes,,3+,Graduate,No,96990,0,אוג-22,3000000,360,1,Urban
+90329,Male,Yes,45,0,Not Graduate,No,44830,0,ינו-22,1350000,360,,Semiurban
+90402,Male,No,26,1,Graduate,No,58230,25290,אוק-22,1870000,360,1,Semiurban
+90504,Male,Yes,66,0,Graduate,No,92260,79160,ינו-22,3000000,360,1,Urban
+91562,Male,Yes,53,2,Graduate,No,41200,0,אפר-22,1280000,360,1,Rural
+92187,Male,No,44,0,Not Graduate,Yes,87030,0,דצמ-22,1990000,360,0,Rural
+92267,Male,Yes,37,0,Graduate,No,30420,31670,מרץ-22,1350000,360,1,Urban
+93086,,No,35,0,Not Graduate,No,47680,0,פבר-22,1250000,360,1,Rural
+93176,Male,Yes,42,1,Graduate,No,34130,40530,פבר-22,0,360,1,Semiurban
+93478,Male,Yes,62,0,Graduate,No,54000,43800,דצמ-22,2900000,360,1,Urban
+93796,Male,Yes,75,2,Graduate,No,7240,35100,אוק-22,2130000,360,0,Rural
+94072,Male,Yes,57,1,Not Graduate,No,24630,23600,פבר-22,1170000,360,0,Urban
+94104,Male,No,19,0,Graduate,No,40830,0,פבר-22,960000,360,1,Urban
+94319,Male,No,67,0,Graduate,No,55830,0,אפר-22,1160000,360,1,Urban
+94979,Male,No,64,0,Not Graduate,No,23560,19020,מאי-22,1080000,360,1,Semiurban
+95291,Male,Yes,57,2,Graduate,No,45000,0,מאי-22,1470000,360,1,Rural
+95302,Female,Yes,41,1,Graduate,No,35640,0,נוב-22,790000,360,1,Rural
+95381,Male,Yes,60,2,Graduate,No,25400,7000,מרץ-22,1040000,360,0,Urban
+95637,Male,Yes,24,2,Graduate,No,50410,7000,יול-22,1500000,360,1,Urban
+95734,Female,Yes,47,0,Graduate,No,42830,0,מרץ-22,1200000,360,1,Rural
+96746,Male,Yes,57,0,Graduate,No,25530,17680,אוג-22,1020000,360,1,Urban
+96847,Male,No,71,,Graduate,No,20660,21080,מאי-22,1040000,84,1,Urban
+97269,Male,No,24,0,Graduate,No,53140,0,פבר-22,1470000,360,1,Urban
+97623,Male,Yes,59,1,Graduate,,40830,17750,אפר-22,1390000,60,1,Urban
+97681,Male,Yes,51,0,Graduate,Yes,22670,27920,מאי-22,900000,360,1,Urban
+97717,Male,No,60,0,Graduate,No,22430,22330,יול-22,1070000,360,,Semiurban
+97900,Male,Yes,69,0,Graduate,No,31890,23670,דצמ-22,1860000,360,1,Urban
+98084,Male,No,32,0,Not Graduate,No,32710,0,דצמ-22,900000,360,1,Rural
+98307,Female,No,68,0,Graduate,Yes,33330,39160,מרץ-22,2120000,360,1,Rural
+98560,Male,Yes,46,0,Graduate,No,50000,23930,פבר-22,1580000,360,1,
+98621,Male,,73,1,Not Graduate,No,18880,16200,מאי-22,480000,360,1,Urban
+99060,Male,Yes,28,2,Not Graduate,No,25000,33330,יונ-22,1310000,360,1,Urban
+99517,Male,Yes,67,0,Not Graduate,No,37540,,יול-22,1180000,,1,Rural
+99811,Male,No,40,0,Graduate,No,50000,0,אוק-22,1480000,360,1,Rural
